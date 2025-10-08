@@ -1,0 +1,272 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "nombre": "Tanjiro Kamado",
+        "respiración": "Agua / Sol",
+        "maxPoder": "Marca del Cazador de Demonios",
+        "rango": "Cazador de Demonios",
+        "género": "Masculino",
+        "descripción": "Protagonista de la serie. Después de que su familia fuera asesinada por demonios y su hermana Nezuko convertida en uno, se convierte en cazador de demonios para encontrar una cura para ella. Es amable, decidido y con un sentido del olfato excepcional.",
+        "img": "/public/images/tanjiro.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+  
+      {
+        "id": 2,
+        "nombre": "Nezuko Kamado",
+        "respiración": "N/A",
+        "maxPoder": "Forma Demoníaca Solar",
+        "rango": "Demonio",
+        "género": "Femenino",
+        "descripción": "Hermana de Tanjiro convertida en demonio. A pesar de ello conserva su humanidad y lucha junto a su hermano. Puede cambiar su tamaño corporal y resistir la luz solar, algo que ningún otro demonio ha logrado.",
+        "img": "https://example.com/nezuko.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 3,
+        "nombre": "Zenitsu Agatsuma",
+        "respiración": "Trueno",
+        "maxPoder": "Primera Forma: Destello del Rayo Seis Veces",
+        "rango": "Cazador de Demonios",
+        "género": "Masculino",
+        "descripción": "Temeroso y ruidoso cuando está despierto, pero letal cuando entra en modo inconsciente. Ha perfeccionado la primera forma del Trueno al máximo, creando su propio estilo: 'Destello del Rayo Seis Veces'.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4f/Zenitsu_anime_right_face.png/revision/latest?cb=20241228000445",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 4,
+        "nombre": "Kagaya Ubuyashiki",
+        "respiración": "N/A",
+        "maxPoder": "Líder del Cuerpo de Cazadores de Demonios",
+        "rango": "Patrón",
+        "género": "Masculino",
+        "descripción": "El jefe del Cuerpo de Cazadores de Demonios, venerado por todos los Pilares. Es un hombre calmado, sabio y compasivo, aunque sufre una enfermedad que lo debilita lentamente. Su serenidad y visión inspiran a todos sus subordinados.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/aa/Kagaya_anime.png/revision/latest?cb=20240621054938",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 5,
+        "nombre": "Inosuke Hashibira",
+        "respiración": "Bestia",
+        "maxPoder": "Respiración de la Bestia",
+        "rango": "Cazador de Demonios",
+        "género": "Masculino",
+        "descripción": "Criado por jabalíes en las montañas, es impulsivo y feroz. Desarrolló su propio estilo de respiración basado en instinto. A pesar de su rudeza, posee un gran corazón y respeto por sus compañeros.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/8/88/Inosuke_anime_right_face.png/revision/latest?cb=20241228001457",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 6,
+        "nombre": "Kanao Tsuyuri",
+        "respiración": "Flor",
+        "maxPoder": "Respiración de la Flor: Forma Final - Ojo Carmesí",
+        "rango": "Cazadora de Demonios",
+        "género": "Femenino",
+        "descripción": "Discípula de Shinobu Kocho. Silenciosa y reservada, pero con gran precisión y reflejos sobrehumanos. Aprende a tomar decisiones por sí misma gracias a Tanjiro.",
+        "img": "https://example.com/kanao.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+  
+      {
+        "id": 7,
+        "nombre": "Giyu Tomioka",
+        "respiración": "Agua",
+        "maxPoder": "Hashira del Agua",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "Serio y reservado, pero con un sentido de justicia firme. Fue quien permitió que Nezuko viviera y animó a Tanjiro a unirse al Cuerpo de Cazadores de Demonios.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/ee/Giyu_anime_right_face.png/revision/latest?cb=20241228001024",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 8,
+        "nombre": "Kyojuro Rengoku",
+        "respiración": "Llama",
+        "maxPoder": "Hashira de las Llamas",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "Brillante, apasionado y optimista. Su sentido del deber y su entusiasmo inspiran a todos los cazadores. Muere heroicamente enfrentando a Akaza.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/de/Kyojuro_anime_right_face.png/revision/latest?cb=20241228001647",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 9,
+        "nombre": "Shinobu Kocho",
+        "respiración": "Insecto",
+        "maxPoder": "Hashira del Insecto",
+        "rango": "Pilar",
+        "género": "Femenino",
+        "descripción": "Una de las Hashira más ingeniosas. No posee la fuerza para decapitar demonios, pero usa venenos letales y una espada especial. Su sonrisa oculta un profundo odio hacia los demonios.",
+        "img": "https://example.com/shinobu.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 10,
+        "nombre": "Tengen Uzui",
+        "respiración": "Sonido",
+        "maxPoder": "Hashira del Sonido",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "Ex ninja que valora lo 'extravagante'. Tiene tres esposas kunoichi y utiliza espadas gemelas unidas por una cadena. Ama la adrenalina del combate.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/6f/Tengen_anime_right_face.png/revision/latest?cb=20241228013405",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 11,
+        "nombre": "Mitsuri Kanroji",
+        "respiración": "Amor",
+        "maxPoder": "Hashira del Amor",
+        "rango": "Pilar",
+        "género": "Femenino",
+        "descripción": "Sensible, dulce y de fuerza sobrehumana. Su cuerpo tiene una composición muscular especial que le permite manejar una espada extremadamente flexible.",
+        "img": "https://example.com/mitsuri.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 12,
+        "nombre": "Obanai Iguro",
+        "respiración": "Serpiente",
+        "maxPoder": "Hashira de la Serpiente",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "Disciplinado, estricto y reservado. Tiene una cicatriz en la cara y una serpiente como compañera llamada Kaburamaru. Está enamorado de Mitsuri Kanroji.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/70/Obanai_anime_right_face.png/revision/latest?cb=20241228001105",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 13,
+        "nombre": "Muichiro Tokito",
+        "respiración": "Niebla",
+        "maxPoder": "Hashira de la Niebla",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "El Pilar más joven, con una mente dispersa y olvidadiza. A pesar de su apariencia distraída, es un genio en combate.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e7/Muichiro_anime_right_face.png/revision/latest?cb=20241228000924",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 14,
+        "nombre": "Sanemi Shinazugawa",
+        "respiración": "Viento",
+        "maxPoder": "Hashira del Viento",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "Explosivo y agresivo, pero con un fuerte sentido del deber. Tiene sangre especialmente tóxica para los demonios.",
+        "img": "https://example.com/sanemi.webp",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+      {
+        "id": 15,
+        "nombre": "Gyomei Himejima",
+        "respiración": "Piedra",
+        "maxPoder": "Hashira de la Piedra",
+        "rango": "Pilar",
+        "género": "Masculino",
+        "descripción": "El Pilar más fuerte. Es ciego, bondadoso y profundamente espiritual. Usa un hacha y una bola con cadena en combate.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/ad/Gyomei_anime_right_face.png/revision/latest?cb=20241228001217",
+        "afiliación": "Cuerpo de Cazadores de Demonios"
+      },
+  
+      {
+        "id": 16,
+        "nombre": "Muzan Kibutsuji",
+        "respiración": "N/A",
+        "maxPoder": "Rey de los Demonios",
+        "rango": "Rey Demonio",
+        "género": "Masculino",
+        "descripción": "El primer demonio y creador de todos los demás. Es despiadado, manipulador e inmortal, salvo por la luz del sol.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/0e/Muzan_Kibutsuji_Full_Body_%28Anime%29.png/revision/latest?cb=20210731042132",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 17,
+        "nombre": "Kokushibo",
+        "respiración": "Luna",
+        "maxPoder": "Luna Superior Uno",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Antiguo cazador de demonios y hermano del creador de la Respiración del Sol. Usa la Respiración de la Luna, derivada del Sol.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5f/Kokushibo_back_facing.png/revision/latest?cb=20250827172040",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 18,
+        "nombre": "Doma",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Dos",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Carismático y cruel. Disfruta devorar humanos con una sonrisa. Usa hielo demoníaco como su principal arma.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/8/83/Doma_%28Anime%29.png/revision/latest?cb=20240728044125",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 19,
+        "nombre": "Akaza",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Tres",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Un artista marcial formidable que respeta la fuerza. Odia a los débiles, pero jamás mata mujeres.",
+        "img": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/99/Akaza_IC_anime_render.png/revision/latest?cb=20250827171706",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 20,
+        "nombre": "Hantengu",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Cuatro",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Representa múltiples emociones: ira, miedo, alegría, tristeza, etc. Cada clon tiene una habilidad distinta.",
+        "img": "https://example.com/hantengu.webp",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 21,
+        "nombre": "Gyokko",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Cinco",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Artista obsesionado con la belleza. Controla vasijas de porcelana y puede manipular el agua para atacar.",
+        "img": "https://example.com/gyokko.webp",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 22,
+        "nombre": "Daki",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Seis",
+        "rango": "Luna Superior",
+        "género": "Femenino",
+        "descripción": "Una oiran hermosa y despiadada. Usa cintas como armas y suele actuar junto a su hermano Gyutaro.",
+        "img": "https://example.com/daki.webp",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 23,
+        "nombre": "Gyutaro",
+        "respiración": "N/A",
+        "maxPoder": "Luna Superior Seis",
+        "rango": "Luna Superior",
+        "género": "Masculino",
+        "descripción": "Hermano mayor de Daki. Deforme, envidioso y extremadamente peligroso. Usa sus hoces de sangre venenosa con maestría.",
+        "img": "https://example.com/gyutaro.webp",
+        "afiliación": "Demonios"
+      },
+      {
+        "id": 24,
+        "nombre": "Nakime",
+        "respiración": "N/A",
+        "maxPoder": "Manipulación de Fortaleza Dimensional",
+        "rango": "Asistente de Muzan",
+        "género": "Femenino",
+        "descripción": "Demonio que toca el biwa para manipular el Castillo Infinito. Controla los espacios como si fueran piezas de un tablero.",
+        "img": "https://example.com/nakime.webp",
+        "afiliación": "Demonios"
+      }
+    ]
+  }
+  
